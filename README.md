@@ -3,6 +3,22 @@ A repository to remember which extensions I use and why
 
 #
 
+## Auto Close Tag
+
+[Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
+
+#
+
+## Auto Rename Tag
+
+[Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+
+#
+
 ## Debugger for Chrome
 
 [Link](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
